@@ -6,7 +6,7 @@ export default function HomePage() {
 
       {/* Nav */}
       <nav style={{ maxWidth: '720px', margin: '0 auto', padding: '20px 24px', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-        <span style={{ fontSize: '15px', fontWeight: 500 }}>AJ's Crib</span>
+        <span style={{ fontSize: '15px', fontWeight: 500 }}>The Crib</span>
         <div style={{ display: 'flex', gap: '8px' }}>
           <Link href="/login" style={{
             padding: '7px 16px',
