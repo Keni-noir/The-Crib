@@ -34,7 +34,7 @@ export default function SignupPage() {
       <main className="w-full max-w-[400px] mx-auto">
         <div className="grid gap-8">
           <header className="grid gap-2">
-            <h1 className="m-0 text-[24px] font-medium leading-tight">AJ's Crib</h1>
+            <h1 className="m-0 text-[24px] font-medium leading-tight">The Crib</h1>
             <p className="m-0 text-[13px] text-[#8A8478]">Keep the house in order</p>
           </header>
 
